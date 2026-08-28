@@ -32,8 +32,6 @@ The website allows users to browse products, filter by category, view product de
 
 **Code Editor:** Visual Studio Code
 
-**AI Tool:** ChatGPT was used to assist with development, debugging, UI implementation and code refinement.
-
 ## Run Locally
 
 ```bash
